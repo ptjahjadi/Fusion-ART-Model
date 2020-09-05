@@ -1,0 +1,251 @@
+Research Keywords: computer_graphics, cybermedicine, scientific_visualization, shape_modelling, virtual_reality, visualization_on_the_grid, web_visualization, 
+Professor that follows these research keywords:Alexei Sourin
+
+Research Keywords: application_specific_processors, heterogeneous_mpsoc, high_level_synthesis, synthesis_for_emerging_technology, 
+Professor that follows these research keywords:Anupam Chattopadhyay
+
+Research Keywords: algorithms, data_analytics, distributed_systems, security_and_privacy, self_organization, 
+Professor that follows these research keywords:Anwitaman Datta
+
+Research Keywords: algorithms, data_mining, databases, graphs_querying_and_mining, machine_learning, 
+Professor that follows these research keywords:Arijit Khan
+
+Research Keywords: cyber_physical_systems, formal_methods, real_time_systems, 
+Professor that follows these research keywords:Arvind Easwaran
+
+Research Keywords: communication_algorithms, digital_signal_processing, modulation_and_multiple_access, ultra_wideband_radio, 
+Professor that follows these research keywords:AS Madhukumar
+
+Research Keywords: game_theory, intelligent__e-commerce, multi_agent_systems, optimization, 
+Professor that follows these research keywords:Bo An
+
+Research Keywords: image_coding, multimedia_networking, video_coding, wireless_video, 
+Professor that follows these research keywords:Cai Jianfei
+
+Research Keywords: parallel_algorithms_and_architectures, parallel_and_distributed_simulation, programming_environments_and_tools, system_performance_analysis, 
+Professor that follows these research keywords:Cai Wentong
+
+Research Keywords: computer_vision, intelligent_projector_presentation_systems, interactive_sentient_environments, semantic_transcoding_of_video_streams, 
+Professor that follows these research keywords:Cham Tat Jen
+
+Research Keywords: image_compression, model_based_coding, multimedia_information_retrieval, video_compression, 
+Professor that follows these research keywords:Chan Syin
+
+Research Keywords: multimedia_adaptation, multimedia_analysis, multimedia_annotation, multimedia_processing, multimedia_transmission, multimedia_understanding_for_information_management, multimodality_data_fusion_for_multimedia_storage_and_retrieval, ontology_support_for_multimedia_semantic_web, 
+Professor that follows these research keywords:Chia Liang Tien Clement
+
+Research Keywords: digital_signal_processing, noise_reduction, speech_and_handwriting_recognition, 
+Professor that follows these research keywords:Chng Eng Siong
+
+Research Keywords: image_processing, medical_imaging_image_compression, multimedia_signal_processing, video_compression, video_processing_computer_vision, 
+Professor that follows these research keywords:Deepu Rajan
+
+Research Keywords: cyber_physical_systems, cyber_security, wireless_networking, 
+Professor that follows these research keywords:Deng Ruilong
+
+Research Keywords: embedded_systems, signal_processing_applications, 
+Professor that follows these research keywords:Douglas Leslie Maskell
+
+Research Keywords: economics_modeling_of_wireless_communications_and_networking, network_performance_analysis, radio_resource_management, 
+Professor that follows these research keywords:Dusit Niyato
+
+Research Keywords: common_sense_reasoning, intention_awareness, natural_language_processing, sentiment_analysis, 
+Professor that follows these research keywords:Eric Cambria
+
+Research Keywords: data_mining_large_scale_data_analytics, geospatial_textual_and_mobility_data_management, mining_social_networks_and_social_media, urban_informatics, user_preference_modeling_and_recommendation, 
+Professor that follows these research keywords:Gao Cong
+
+Research Keywords: computer_vision, human_computer_interaction, interactive_multimedia, 
+Professor that follows these research keywords:Goh Wooi Boon
+
+Research Keywords: brain_computer_interfaces, cognition_and_rehabilitation, machine_learning, neural_engineering, 
+Professor that follows these research keywords:Guan Cuntai
+
+Research Keywords: computer_graphics, geometric_modeling, scientific_computing, visualization, 
+Professor that follows these research keywords:He Ying
+
+Research Keywords: algorithms_and_data_structure, multi_agent_systems, navigation_and_route_planning_systems, 
+Professor that follows these research keywords:Huang Shell Ying
+
+Research Keywords: data_mining, intelligent_techniques, scheduling, semantic_web, 
+Professor that follows these research keywords:Hui Siu Cheung
+
+Research Keywords: brain_imaging, computational_and_systems_biology, machine_learning, 
+Professor that follows these research keywords:Jagath C. Rajapakse
+
+Research Keywords: big_data_analytics, bioinformatics, data_management, data_mining, 
+Professor that follows these research keywords:Ke Yiping Kelly
+
+Research Keywords: biometric_security, computer_vision, image_processing, pattern_recognition, 
+Professor that follows these research keywords:Kong Wai Kin Adams
+
+Research Keywords: classification_and_augmented_reality, medical_image_processing_lesion_identification, probabilistic_inference, 
+Professor that follows these research keywords:Kwoh Chee Keong
+
+Research Keywords: biometric_cryptography, critical_information_infrastructure_protection, cyber_security, distributed_systems_security, enterprise_architecture, multi_modal_biometrics_in_homeland_security, 
+Professor that follows these research keywords:Lam Kwok Yan
+
+Research Keywords: custom_computing, embedded_vision, heterogeneous_and_reconfigurable_systems, high_level_synthesis, 
+Professor that follows these research keywords:Lam Siew Kei
+
+Research Keywords: embedded_systems, wireless_communications, 
+Professor that follows these research keywords:Lau Chiew Tong
+
+Research Keywords: cloud_computing, grid_computing, quality_of_service, sdn_in_computer_network, wireless_ad_hoc_network, 
+Professor that follows these research keywords:Lee Bu Sung Francis
+
+Research Keywords: biomedical_engineering_related_research, biometric_image_processing, pattern_recognition, 
+Professor that follows these research keywords:Li Fang Flora
+
+Research Keywords: distributed_systems, pervasive_computing, real_time_and_embedded_systems, wireless_sensor_networks, 
+Professor that follows these research keywords:Li Mo
+
+Research Keywords: automated_reasoning, formal_methods, program_analysis, software_engineering, 
+Professor that follows these research keywords:Li Yi
+
+Research Keywords: graph_based_search, machine_learning, neural_networks, service_and_cloud_computing, 
+Professor that follows these research keywords:Liang Qianhui Althea
+
+Research Keywords: computer_graphics, high_performance_computing, medical_informatics, visualisation, 
+Professor that follows these research keywords:Lin Feng
+
+Research Keywords: computer_vision, machine_learning, 
+Professor that follows these research keywords:Lin Guosheng
+
+Research Keywords: compositional_verification_and_synthesis, embedded_real_time_system_verification_and_synthesis, formal_methods, model_checking, program_verification_and_synthesis, 
+Professor that follows these research keywords:Lin Shang Wei
+
+Research Keywords: image_processing, multimedia_communication, object_recognition, perceptual_visual_quality_gauging, 
+Professor that follows these research keywords:Lin Weisi
+
+Research Keywords: computer_architecture, electronic_network_on_chip, embedded_and_real_time_systems, many_core_systems, photonic_network_on_chip, 
+Professor that follows these research keywords:Liu Weichen
+
+Research Keywords: formal_methods, model_checking, software_engineering, software_security, 
+Professor that follows these research keywords:Liu Yang
+
+Research Keywords: computer_vision, embedded_vision_system, image_processing, machine_learning, 
+Professor that follows these research keywords:Loke Yuan Ren
+
+Research Keywords: artificial_intelligence, big_data, distributed_graph_computing, spatio_temporal_data_management_and_mining, urban_computing, 
+Professor that follows these research keywords:Long Cheng
+
+Research Keywords: computer_vision, deep_learning, image_processing, machine_learning, 
+Professor that follows these research keywords:Loy Chen Change (Cavan)
+
+Research Keywords: cognitive_vision, image_and_video_analytics, machine_learning, visual_intelligence, 
+Professor that follows these research keywords:Lu Shijian
+
+Research Keywords: applied_operations_research, network_modeling_and_performance_evaluation, network_security, wireless_networking, 
+Professor that follows these research keywords:Luo Jun
+
+Research Keywords: autonomous_systems, data_stream_analytics, evolving_and_adaptive_systems, fuzzy_machine_learning, tool_condition_monitoring, 
+Professor that follows these research keywords:Mahardhika Pratama
+
+Research Keywords: agent_oriented_software_engineering, mas, semantic_grid, semantic_web, software_agent, 
+Professor that follows these research keywords:Miao Chunyan
+
+Research Keywords: computer_architecture, emerging_technologies, system_level_design, 
+Professor that follows these research keywords:Mohamed Mostafa Sabry Aly
+
+Research Keywords: computational_airspace_utilization, enterprise_blockchain_applications, privacy_preserving_machine_learning, risk_modeling_systems, 
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: embedded_systems, internet_of_things, 
+Professor that follows these research keywords:Oh Hong Lye
+
+Research Keywords: artificial_intelligence, computational_intelligence, data_analytics, evolutionary_optimization, intelligent_multi_agents, memetic_computing, 
+Professor that follows these research keywords:Ong Yew Soon
+
+Research Keywords: entertainment_and_mobile_computing, human_computer_interaction, interactive_systems, multimodal_and_natural_interfaces, 
+Professor that follows these research keywords:Owen Noel Newton Fernando
+
+Research Keywords: data_mining, machine_learning, recommender_systems, social_media_analytics, transfer_learning, 
+Professor that follows these research keywords:Pan Jialin Sinno
+
+Research Keywords: augmented_reality, computer_animation, computer_vision, image_analysis_and_processing, optical_metrology_and_fringe_processing, 
+Professor that follows these research keywords:Qian Kemao
+
+Research Keywords: artificial_intelligence_in_education, fuzzy_neural_systems, intelligent_control, 
+Professor that follows these research keywords:Quek Hiok Chai
+
+Research Keywords: automatic_in_between_frame_generation_from_hand_drawn_sketches, digital_dynamic_visualization, image_sequence_analysis_with_applications_to_digital_film_effects, medical_visualization, 
+Professor that follows these research keywords:Seah Hock Soon
+
+Research Keywords: data_science, deep_learning, graphical_models, machine_learning, medical_informatics, natural_language_processing, reinforcement_learning, 
+Professor that follows these research keywords:Shafiq Joty
+
+Research Keywords: brain_computer_interface, embedded_systems, low_power_reconfigurable_computing, signal_processing_applications, 
+Professor that follows these research keywords:Smitha Kavallur Pisharath Gopi
+
+Research Keywords: computational_social_science, computational_systems_biology, data_analytics, data_management, 
+Professor that follows these research keywords:Sourav Saha Bhowmick
+
+Research Keywords: cryptology, cyber_security, data_science, number_theory, 
+Professor that follows these research keywords:Sourav Sen Gupta
+
+Research Keywords: embedded_systems, hardware_accelerators, high_speed_arithmetic_units, 
+Professor that follows these research keywords:Srikanthan Thambipillai
+
+Research Keywords: digital_libraries, information_retrieval, social_computing, text_mining, web_mining, 
+Professor that follows these research keywords:Sun Aixin
+
+Research Keywords: collaborative_cad_and_case_systems, collaborative_internet_computing_technologies_and_applications, collaborative_office_applications, collaborative_virtual_environments, computer_supported_cooperative_work, distributed_and_network_systems, human_computer_interaction_technology, 
+Professor that follows these research keywords:Sun Chengzheng
+
+Research Keywords: computational_economics, computational_social_choice, game_theory, 
+Professor that follows these research keywords:Svetlana Obraztsova
+
+Research Keywords: cloud_computing, computer_networking, distributed_virtual_environments, green_computing, software_security, 
+Professor that follows these research keywords:Ta Nguyen Binh Duong
+
+Research Keywords: document_information_mining, intelligent_agents, machine_learning_and_knowledge_discovery, personalization, 
+Professor that follows these research keywords:Tan Ah Hwee
+
+Research Keywords: clustered_ha_systems, enterprise_mobility_platform, software_and_system_security, software_engineering, 
+Professor that follows these research keywords:Tan Kheng Leong
+
+Research Keywords: cyber_physical_systems, pervasive_computing, sensor_networks, 
+Professor that follows these research keywords:Tan Rui
+
+Research Keywords: distributed_systems, mobile_and_pervasive_computing, web_and_internet, wireless_sensor_networks, 
+Professor that follows these research keywords:Tang Xueyan
+
+Research Keywords: discrete_math, infocomm_security, mathematical_analysis, public_key_algorithms, 
+Professor that follows these research keywords:Tay Kian Boon
+
+Research Keywords: cultural_aspects_of_human_media_interaction, human_robot_interaction, interaction_design_of_ai_agents_and_systems, social_artificial_intelligence, 
+Professor that follows these research keywords:Vanessa Evers
+
+Research Keywords: embedded_signal_conversion_and_signal_processing, embedded_systems, 
+Professor that follows these research keywords:Vun Chan Hua Nicholas
+
+Research Keywords: big_data_systems_and_applications, blockchain_protocols_and_applications, cloud_computing_and_data_centre, distributed_machine_learning, multimedia_computing_and_networking, 
+Professor that follows these research keywords:Wen Yonggang
+
+Research Keywords: artificial_intelligence, computer_vision, data_science, deep_learning, sparse_convex_optimization, spectral_graph_theory, 
+Professor that follows these research keywords:Xavier Bresson
+
+Research Keywords: ad_hoc_and_mobile_networks, overlay_networks, speech_processing_and_enhancement, 
+Professor that follows these research keywords:Yeo Chai Kiat
+
+Research Keywords: crowdsourcing_and_human_computation, data_driven_algorithmic_management, ethically_aligned_intelligent_decision_support, 
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: computer_vision, multimedia, 
+Professor that follows these research keywords:Zhang Hanwang
+
+Research Keywords: artificial_intelligence, incentive_mechanism, multi_agent_system, trust_management, 
+Professor that follows these research keywords:Zhang Jie
+
+Research Keywords: artificial_intelligence, machine_learning, networked_systems, security_and_privacy, 
+Professor that follows these research keywords:Zhao Jun
+
+Research Keywords: animation_and_visualization, cad, cagd_and_geometric_modeling, cam, computer_graphics, image_processing, 
+Professor that follows these research keywords:Zheng Jianmin
+
+Research Keywords: artificial_intelligence, modelling_of_manipulative_interaction, multi_agent_systems, 
+Professor that follows these research keywords:Zinovi Rabinovich
+
+
+Query Accuracy: 100.0%

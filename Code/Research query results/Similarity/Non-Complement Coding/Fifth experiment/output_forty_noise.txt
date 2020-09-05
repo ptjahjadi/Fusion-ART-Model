@@ -1,0 +1,251 @@
+Research Keywords: Computer Graphics, Shape Modelling, Virtual Reality, Web Visualization, Visualization on the Grid, Cybermedicine, Scientific Visualization
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: High level Synthesis, Application specific Processors, Heterogeneous MPSoC, Synthesis for Emerging Technology
+Professor that follows these research keywords:Anupam Chattopadhyay
+
+Research Keywords: Distributed Systems, Security and Privacy, Data Analytics, Algorithms, Self organization
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Graphs Querying and Mining, Databases, Data Mining, Algorithms, Machine Learning
+Professor that follows these research keywords:Arijit Khan
+
+Research Keywords: Real time Systems, Cyber physical Systems, Formal Methods
+Professor that follows these research keywords:Cham Tat Jen
+
+Research Keywords: Ultra Wideband Radio, Modulation and Multiple Access, Communication Algorithms, Digital Signal Processing
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Multi agent Systems, Game Theory, Optimization, Intelligent  E-commerce
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Image Coding, Video Coding, Wireless Video, Multimedia Networking
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Parallel and Distributed Simulation, Programming Environments and Tools, Parallel Algorithms and Architectures, System Performance Analysis
+Professor that follows these research keywords:Cai Wentong
+
+Research Keywords: Computer Vision, Intelligent Projector Presentation Systems, Interactive Sentient Environments, Semantic Transcoding of Video Streams
+Professor that follows these research keywords:Cham Tat Jen
+
+Research Keywords: Image Compression, Video Compression, Model based Coding, Multimedia Information Retrieval
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Multimedia Understanding for Information Management, Multimedia Processing, Multimedia Analysis, Multimedia Annotation, Multimedia Adaptation, Multimedia Transmission, Multimodality Data Fusion for Multimedia Storage and Retrieval, Ontology support for Multimedia Semantic Web
+Professor that follows these research keywords:Chia Liang Tien Clement
+
+Research Keywords: Digital Signal Processing, Speech and Handwriting Recognition, Noise Reduction
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Image Processing, Video Processing, Computer Vision, Medical Imaging, Image Compression, Video Compression, Multimedia Signal Processing
+Professor that follows these research keywords:Cham Tat Jen
+
+Research Keywords: Cyber Physical Systems, Cyber Security, Wireless Networking
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Signal Processing Applications, Embedded Systems
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Radio Resource Management, Network Performance Analysis, Economics Modeling of Wireless Communications and Networking
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Natural Language Processing, Sentiment Analysis, Common sense Reasoning, Intention Awareness
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Geospatial, Textual, and Mobility Data Management, Data Mining, Large Scale Data Analytics, Mining Social Networks and Social Media, User Preference Modeling and Recommendation, Urban Informatics
+Professor that follows these research keywords:Gao Cong
+
+Research Keywords: Computer Vision, Interactive Multimedia, Human Computer Interaction
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Brain Computer Interfaces, Neural Engineering, Machine Learning, Cognition and Rehabilitation
+Professor that follows these research keywords:Quek Hiok Chai
+
+Research Keywords: Computer Graphics, Geometric Modeling, Visualization, Scientific Computing
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Multi Agent Systems, Algorithms and Data Structure, Navigation and Route Planning Systems
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Data Mining, Semantic Web, Intelligent Techniques, Scheduling
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Computational and Systems Biology, Brain Imaging, Machine Learning
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Data Mining, Big Data Analytics, Bioinformatics, Data Management
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Pattern Recognition, Image Processing, Computer Vision, Biometric Security
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Medical Image Processing Lesion Identification, Probabilistic Inference, Classification and Augmented Reality
+Professor that follows these research keywords:Kwoh Chee Keong
+
+Research Keywords: Distributed Systems Security, Cyber Security, Multi modal Biometrics in Homeland Security, Enterprise Architecture, Biometric Cryptography, Critical Information Infrastructure Protection
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Custom Computing, High Level Synthesis, Heterogeneous and Reconfigurable Systems, Embedded Vision
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Wireless Communications, Embedded Systems
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Grid Computing, Cloud Computing, SDN in Computer Network, Wireless Ad Hoc Network, Quality of Service
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Pattern Recognition, Biometric Image Processing, Biomedical Engineering Related Research
+Professor that follows these research keywords:Quek Hiok Chai
+
+Research Keywords: Distributed Systems, Pervasive Computing, Wireless Sensor Networks, Real Time and Embedded Systems
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Formal Methods, Program Analysis, Automated Reasoning, Software Engineering
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Graph based Search, Neural Networks, Service and Cloud Computing, Machine Learning
+Professor that follows these research keywords:Liang Qianhui Althea
+
+Research Keywords: Medical Informatics, High Performance Computing, Computer Graphics, Visualisation
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Computer Vision, Machine Learning
+Professor that follows these research keywords:Cham Tat Jen
+
+Research Keywords: Formal Methods, Model Checking, Compositional Verification and Synthesis, Program Verification and Synthesis, Embedded Real Time System Verification and Synthesis
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Image Processing, Perceptual Visual Quality Gauging, Multimedia Communication, Object Recognition
+Professor that follows these research keywords:Cham Tat Jen
+
+Research Keywords: Embedded and Real time Systems, Many core systems, Electronic Network on chip, Photonic Network on chip, Computer Architecture
+Professor that follows these research keywords:Liu Weichen
+
+Research Keywords: Formal Methods, Model Checking, Software Security, Software Engineering
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Computer Vision, Image Processing, Machine Learning, Embedded Vision System
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Spatio temporal Data Management and Mining, Urban Computing, Distributed Graph Computing, Big Data, Artificial Intelligence
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Computer Vision, Image Processing, Machine Learning, Deep Learning
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Image and Video Analytics, Cognitive Vision, Visual Intelligence, Machine Learning
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Wireless Networking, Network Modeling and Performance Evaluation, Applied Operations Research, Network Security
+Professor that follows these research keywords:Quek Hiok Chai
+
+Research Keywords: Evolving and Adaptive Systems, Fuzzy Machine Learning, Data Stream Analytics, Tool Condition Monitoring, Autonomous Systems
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Software agent, MAS, Agent Oriented Software Engineering, Semantic Web, Semantic Grid
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: System level design, Computer Architecture, Emerging Technologies
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Privacy preserving Machine Learning, Enterprise Blockchain Applications, Risk Modeling Systems, Computational Airspace Utilization
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Embedded Systems, Internet of Things
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Artificial Intelligence, Computational Intelligence, Memetic Computing, Evolutionary Optimization, Intelligent Multi Agents, Data Analytics
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Human Computer Interaction, Interactive Systems, Multimodal and Natural Interfaces, Entertainment and Mobile Computing
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Machine Learning, Transfer Learning, Social Media Analytics, Recommender Systems, Data Mining
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Optical Metrology and Fringe Processing, Image Analysis and Processing, Computer Vision, Augmented Reality, Computer Animation
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Artificial Intelligence in Education, Intelligent Control, Fuzzy Neural Systems
+Professor that follows these research keywords:Quek Hiok Chai
+
+Research Keywords: Image Sequence Analysis with applications to digital film effects, Automatic in between frame generation from hand drawn sketches, Medical Visualization, Digital Dynamic Visualization
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Natural Language Processing, Machine Learning, Deep learning, Graphical Models, Reinforcement Learning, Data Science, Medical Informatics
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Low Power Reconfigurable Computing, Embedded Systems, Signal Processing Applications, Brain Computer Interface
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Data Management, Data Analytics, Computational Social Science, Computational Systems Biology
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Cryptology, Cyber Security, Data Science, Number Theory
+Professor that follows these research keywords:Cham Tat Jen
+
+Research Keywords: High Speed Arithmetic Units, Embedded Systems, Hardware Accelerators
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Information Retrieval, Text Mining, Web Mining, Social Computing, Digital Libraries
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Collaborative Internet Computing Technologies and Applications, Distributed and Network Systems, Computer Supported Cooperative Work, Human Computer Interaction Technology, Collaborative Office Applications, Collaborative CAD and CASE Systems, Collaborative Virtual Environments
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Computational Social Choice, Computational Economics, Game Theory
+Professor that follows these research keywords:Cham Tat Jen
+
+Research Keywords: Distributed Virtual Environments, Cloud Computing, Green Computing, Computer Networking, Software Security
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Document Information Mining, Machine Learning and Knowledge Discovery, Personalization, Intelligent Agents
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Enterprise Mobility Platform, Clustered HA Systems, Software Engineering, Software and System Security
+Professor that follows these research keywords:Tan Kheng Leong
+
+Research Keywords: Cyber Physical Systems, Sensor Networks, Pervasive Computing
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Web and Internet, Mobile and Pervasive Computing, Wireless Sensor Networks, Distributed Systems
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Infocomm Security, Public Key Algorithms, Discrete Math, Mathematical Analysis
+Professor that follows these research keywords:Tay Kian Boon
+
+Research Keywords: Human Robot Interaction, Social Artificial Intelligence, Cultural Aspects of Human Media Interaction, Interaction Design of AI Agents and Systems
+Professor that follows these research keywords:Vanessa Evers
+
+Research Keywords: Embedded Signal Conversion and Signal Processing, Embedded Systems
+Professor that follows these research keywords:Vun Chan Hua Nicholas
+
+Research Keywords: Distributed Machine Learning, Big Data Systems and Applications, Cloud Computing and Data Centre, Multimedia Computing and Networking, Blockchain: Protocols and Applications
+Professor that follows these research keywords:Wen Yonggang
+
+Research Keywords: Data Science, Deep Learning, Artificial Intelligence, Computer Vision, Sparse Convex Optimization, Spectral Graph Theory
+Professor that follows these research keywords:Cham Tat Jen
+
+Research Keywords: Overlay Networks, Ad Hoc and Mobile Networks, Speech Processing and Enhancement
+Professor that follows these research keywords:Yeo Chai Kiat
+
+Research Keywords: Crowdsourcing and Human Computation, Data driven Algorithmic Management, Ethically Aligned Intelligent Decision Support
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Multimedia, Computer Vision
+Professor that follows these research keywords:Cham Tat Jen
+
+Research Keywords: Artificial Intelligence, Multi Agent System, Trust Management, Incentive Mechanism
+Professor that follows these research keywords:Yu Han
+
+Research Keywords: Security and Privacy, Networked Systems, Artificial Intelligence, Machine Learning
+Professor that follows these research keywords:Ng Wee Keong
+
+Research Keywords: Computer Graphics, CAGD and Geometric Modeling, CAD, CAM, Animation and Visualization, Image Processing
+Professor that follows these research keywords:Cham Tat Jen
+
+Research Keywords: Multi agent Systems, Artificial Intelligence, Modelling of Manipulative Interaction
+Professor that follows these research keywords:Ng Wee Keong
+
+
+Query Accuracy: 21.686746987951807%
