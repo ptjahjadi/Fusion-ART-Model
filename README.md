@@ -3,7 +3,7 @@
 ## Aim
 The aim of this project is to store and retrieve data from a Fusion Adaptive Resonance Theory
 (ART) model, given a dataset. The foundation of the Fusion ART model is done using various machine learning methodologies:
-* Binary encoding
+* Binary Encoding
 * Word Embedding
 * Dynamic Word Embedding / Language Model
 
