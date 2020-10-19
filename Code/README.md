@@ -1,4 +1,4 @@
-# Fusion ART Code by Patrick Tjahjadi, Prof. Tan Ah-Hwee and Dr. Budhitama Subagdja
+# Fusion ART Code by Patrick Tjahjadi
 
 ## Prerequisites and Setting Up
 This model is written in Jupyter Notebook version 4.4.0 using Python version 3.7.1. The following software are required
@@ -18,7 +18,7 @@ uses complement-coding.
 The Fusion ART code for word embedding can be found in "professor-fusionART-word2vec-representation.ipynb" for word value representation and
 "professor-fusionART-word2vec-similarity.ipynb" for similarity representation.
 
-The Fusion ART code language models can be found in "professor-fusionART-BERT.ipynb" to build BERT language models.
+The Fusion ART code for language models can be found in "professor-fusionART-BERT.ipynb" to build BERT language models.
 
 The following Python libraries are installed and used:
 * collections
@@ -46,8 +46,13 @@ An additional text corpus to train using word embedding and language models can 
 Please run through the code in full to pre-process the dataset, build the Fusion ART model, store the data 
 to the model and retrieve data for all noise levels.
 
-The pre-processing involves converting the categorical data to binary data using one-hot encoding
-to be stored to the model.
+The pre-processing phase differs among methods.
+* Binary Encoding: Each attribute in the dataset are converted to numerical vectors using one-hot encoding. Professors with multiple universities and research interests have their vectors summed. Finally, they are fed to the Fusion ART model.
+
+* Word Embedding: Each attribute in the dataset except for research interests are converted using one-hot encoding. Research interests are fed into the gensim word embedding model to determine relationships between research keywords. The word embedding model outputs the numerical vectors, then normalised to the values between 0 and 1 before being fed to the Fusion ART model.
+
+* Language Models: Each attribut ein the dataset except for research interests are converted using one-hot encoding. Research interests are fed into the BERT language model to determine numerical vectors for each research keywords. The TensorFlow model then outputs the numerical vectors, then normalised to the values between 0 and 1 before being fed to the Fusion ART model.
+
 
 The following code is used to build the model:
 ```python
@@ -74,6 +79,7 @@ for i in range(0, len(name)):
 
     model.autoLearn(J)
 ```
+name_onehotlist, group_onehotlist, university_2d and research_interest_2d are numerical vectors that have undergone pre-processing depending on the methods as mentioned above.
 
 There are two types of query retrievals to test the model. The first test involves retrieving the full data
 of a professor, given their name as an input (query by name).
