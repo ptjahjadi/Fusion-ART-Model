@@ -1,11 +1,4 @@
-# Fusion ART Retrieval Model by Patrick Tjahjadi
-## Note
-This README is for binary one-hot encoding, found in codes "professor-fusionART.ipynb" and "compl-professor-fusionART.ipynb".
-
-## Aim
-The aim of this project is to store and retrieve data from a Fusion Adaptive Resonance Theory
-(ART) model, given a dataset. The accuracy of the model in retrieving data can then be measured
-for varying levels of noise.
+# Fusion ART Code by Patrick Tjahjadi, Prof. Tan Ah-Hwee and Dr. Budhitama Subagdja
 
 ## Prerequisites and Setting Up
 This model is written in Jupyter Notebook version 4.4.0 using Python version 3.7.1. The following software are required
@@ -18,20 +11,36 @@ The dataset used is "SCSE ProfProfile.csv".
 Please ensure that the Fusion ART API "fusionART.py" and "ARTfunc.py" are present when running the code, since 
 they provide the functions to build the Fusion ART model. These API are created by Dr. Budhitama Subagdja.
 
-The code for data storage and retrieval using Fusion ART models can be found in "professor-fusionART.ipynb"
+The code for data storage and retrieval using Fusion ART models with binary encoding can be found in "professor-fusionART.ipynb"
 and "compl-professor-fusionART.ipynb". The former is to retrieve data without complement-coding, while the latter
 uses complement-coding.
 
+The Fusion ART code for word embedding can be found in "professor-fusionART-word2vec-representation.ipynb" for word value representation and
+"professor-fusionART-word2vec-similarity.ipynb" for similarity representation.
+
+The Fusion ART code language models can be found in "professor-fusionART-BERT.ipynb" to build BERT language models.
+
 The following Python libraries are installed and used:
+* collections
 * pandas
 * random
 * numpy
 * itertools
 * sklearn
 * csv
+* re
+* wikipedia (Word Embedding and Language Models)
+* dill (Word Embedding and Language Models)
+* nltk (Word Embedding and Language Models)
+* gensim (Word Embedding)
+* tensorflow (Language Models)
+* keras (Language Models)
+* transformers (Languag eModels)
 
 There is a batch file "research_query.bat" that is used to run the research keywords query for the Fusion ART 
 model, which will output text files for varying levels of noise containing the results of the query.
+
+An additional text corpus to train using word embedding and language models can be found in "it_text.txt"
 
 ## Running the code
 Please run through the code in full to pre-process the dataset, build the Fusion ART model, store the data 
@@ -86,13 +95,3 @@ Example of results of querying by name.
 
 Example of results of querying by research keywords, for non-complement-coded data with 30% noise.
 
-## Applications
-We can retrieve the accuracy of the Fusion ART model in querying research keywords for varying levels of noise.
-The model parameters affect the retrieval accuracy.
-
-By modifying the pre-processing and querying process to account for different variables,
-this model can be used for a variety of datasets.
-
-## Special Thanks
-* Prof. Tan Ah-Hwee, Singapore Management University
-* Dr. Budhitama Subagdja, Nanyang Technological University
