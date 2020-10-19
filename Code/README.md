@@ -51,7 +51,7 @@ The pre-processing phase differs among methods.
 
 * Word Embedding: Each attribute in the dataset except for research interests are converted using one-hot encoding. Research interests are fed into the gensim word embedding model to determine relationships between research keywords. The word embedding model outputs the numerical vectors, then normalised to the values between 0 and 1 before being fed to the Fusion ART model.
 
-* Language Models: Each attribut ein the dataset except for research interests are converted using one-hot encoding. Research interests are fed into the BERT language model to determine numerical vectors for each research keywords. The TensorFlow model then outputs the numerical vectors, then normalised to the values between 0 and 1 before being fed to the Fusion ART model.
+* Language Models: Each attribute in the dataset except for research interests are converted using one-hot encoding. Research interests are fed into the BERT language model to determine numerical vectors for each research keywords. The TensorFlow model then outputs the numerical vectors, then normalised to the values between 0 and 1 before being fed to the Fusion ART model.
 
 
 The following code is used to build the model:
