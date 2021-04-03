@@ -35,7 +35,7 @@ The following Python libraries are installed and used:
 * gensim (Word Embedding)
 * tensorflow (Language Models)
 * keras (Language Models)
-* transformers (Languag eModels)
+* transformers (Language Models)
 
 There is a batch file "research_query.bat" that is used to run the research keywords query for the Fusion ART 
 model, which will output text files for varying levels of noise containing the results of the query.
