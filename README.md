@@ -1,5 +1,6 @@
 # Fusion ART Retrieval Model by Patrick Tjahjadi
-
+## Research
+This research project can be found [here](https://www.researchgate.net/project/Experiments-Regarding-Fusion-Adaptive-Resonance-Theory-Software).
 ## Aim
 The aim of this project is to store and retrieve data from a Fusion Adaptive Resonance Theory
 (ART) model, given a dataset. The foundation of the Fusion ART model is done using various machine learning methodologies:
